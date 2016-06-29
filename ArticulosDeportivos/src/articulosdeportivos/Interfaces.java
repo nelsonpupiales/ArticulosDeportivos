@@ -12,6 +12,6 @@ package articulosdeportivos;
 public class Interfaces {
     public static void main(String[] args) {
         System.out.println("Interfaces");
-        System.out.println("version 1.0");
+        System.out.println("version 1.1");
     }
 }
