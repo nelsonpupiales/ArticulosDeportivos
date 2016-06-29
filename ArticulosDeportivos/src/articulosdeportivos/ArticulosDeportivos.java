@@ -17,6 +17,7 @@ public class ArticulosDeportivos {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Articulos Deportivos");
+        System.out.println("Linea de Desarrollo Version 1.1");
     }
     
 }
